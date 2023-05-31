@@ -15,11 +15,13 @@ export const Projects = () => {
       title: "Proyecto Universitario",
       description: "Desarrollo & Diseño",
       imgUrl: projImg1,
+      link: 'https://rick-and-morty-tau-ten.vercel.app/',
     },
     {
       title: "Proyecto Universitario",
       description: "Desarrollo & Diseño",
       imgUrl: projImg2,
+      link: 'https://pokemons-rose.vercel.app/',
     },
     {
       title: "Inicio de Negocio",
