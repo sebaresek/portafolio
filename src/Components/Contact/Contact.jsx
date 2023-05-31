@@ -61,7 +61,7 @@ export const Contact = () => {
                     </Col>
                     {/* para redirigir a la pagina una vez apretado el send */}
                     <Col size={12} sm={6} className="px-1">
-                      <input type="hidden" name="_next" value='http://localhost:3000' /> 
+                      <input type="hidden" name="_next" value='https://portafolio-kappa-indol.vercel.app/' /> 
                     </Col>
                     {/* para que no aparezca el captcha  */}
                     <Col size={12} sm={6} className="px-1">
