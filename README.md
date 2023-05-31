@@ -1,4 +1,4 @@
-﻿# 👀 PROYECTO: PRESTAMOS PERSONALES
+﻿# 👀 PROYECTO: PORTAFOLIO PERSONAL
 
 <br />
 
@@ -22,7 +22,7 @@ Creo que es importante que sepas que **`no`** deberias copiar directamente este 
 
 **👀 What? Why?**
 
-Es importante que entiendas que a veces es mucho mejor buscar en las documentacion oficiales que ofrecen diversas paginas; como ser **`MDN`** u otras.
+Es importante que entiendas que a veces es mucho mejor buscar en las documentacion oficiales que ofrecen diversas paginas web.
 
 <br />
 
