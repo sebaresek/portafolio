@@ -37,8 +37,7 @@ Es importante que entiendas que a veces es mucho mejor buscar en las documentaci
 Mi nombre es Sebastian Resek y espero poder ayudarte en otra ocacion 👋 
 
 Si quieres puedes ingresar a ver la pagina, te dejo el link aca a bajo !
-
-<br />
+<br /><br />
 **`https://www.sebaresek.site/`**
 
 
